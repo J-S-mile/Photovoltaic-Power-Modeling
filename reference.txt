@@ -1,0 +1,5 @@
+Reference
+
+1. Photovoltaic power pattern clustering based on conventional and swarm clustering methods(Amr A. Munshi, Yasser A.-R.I. Mohamed)
+2. Probabilistic Impact of Transportation Electrification on the Loss-of-Life of Distribution Transformers in the Presence of Rooftop Solar Photovoltaic(Sherif F. Abdelsamad...)
+3. LG NEON R (LG350Q1C-A5)
